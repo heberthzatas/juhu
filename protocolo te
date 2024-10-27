@@ -1,0 +1,55 @@
+# Protocolo de Transferencia de Embriones (TE) Tradicional
+
+## 1. Protocolo para Donadoras
+
+### A. Selección y Preparación de Donadoras
+- **Día -30 a -60**: Selección de hembras donadoras. Evaluar edad, salud, calidad genética y historial reproductivo.
+- **Día -20**: Examen físico y pruebas sanitarias para descartar enfermedades.
+- **Día -10**: Ajustes en alimentación para mejorar el estado corporal y la calidad de los óvulos.
+
+### B. Sincronización y Superovulación
+- **Día 0**: Iniciar tratamiento con prostaglandinas para inducir el ciclo estral.
+- **Día 1 a Día 4**: Administrar hormonas gonadotrópicas (FSH) dos veces al día para superovulación.
+- **Día 6**: Aplicar segunda dosis de prostaglandina para sincronizar la ovulación.
+
+### C. Inseminación Artificial
+- **Día 7**: Detectar estro en la donadora e inseminar 2 o 3 veces en intervalos de 12 horas.
+
+### D. Recolección de Embriones
+- **Día 14**: Realizar lavado uterino y recolección de embriones. Evaluar embriones bajo microscopio.
+
+---
+
+## 2. Protocolo para Receptoras
+
+### A. Selección y Preparación de Receptoras
+- **Día -30 a -60**: Seleccionar hembras receptoras saludables y con historial reproductivo favorable.
+- **Día -20**: Realizar evaluación veterinaria y ajustar dieta.
+
+### B. Sincronización del Ciclo Estral
+- **Día 0**: Aplicar prostaglandinas para inducir el ciclo estral, sincronizándose con la donadora.
+- **Día 6**: Administrar segunda dosis de prostaglandina para sincronizar la ovulación.
+
+### C. Preparación para la Transferencia
+- **Día 14**: Confirmar ciclo estral en la receptora.
+- **Día 14 (mismo día)**: Transferir embriones seleccionados a las receptoras sincronizadas.
+
+---
+
+## Diagrama de Protocolo Resumido
+
+```plaintext
+Donadora                        Receptora
+Día -30 a -60: Selección        Día -30 a -60: Selección 
+Día -20: Preparación            Día -20: Preparación
+
+       Sincronización del Ciclo Estral
+Día 0: Prostaglandina           Día 0: Prostaglandina
+Día 1-4: Superovulación (FSH)
+Día 6: Segunda Prostaglandina    Día 6: Segunda Prostaglandina
+
+       Inseminación de Donadora
+Día 7: Inseminación             Día 7: Monitoreo
+
+       Recolección y Transferencia
+Día 14: Recolección y evaluación Día 14: Transferencia de embrión
